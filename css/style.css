@@ -1,0 +1,26 @@
+[class*="first"] {
+	color: darkorange;
+}
+
+.text-bio {
+	color: green;
+}
+
+.first {
+	color: darkgreen;
+}
+.album-info {
+	color: red;
+}
+
+h2 {
+	color: darkblue;
+}
+
+p {
+	color: hotpink;
+}
+
+.album-info-doom span {
+	color: teal;
+}
